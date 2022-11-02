@@ -1,0 +1,26 @@
+body{
+    background-color: antiquewhite;
+    font-family: 'Montserrat', sans-serif;
+}
+.copy_right_footer{
+    text-align: center;
+    font-size: 13px;
+    font-family: 'Montserrat', sans-serif;
+    bottom: 0;
+    position: fixed;
+    background-color: aliceblue;
+    width: 100%;
+}
+#idef{
+    background-color: whitesmoke;
+}
+h1{
+    color: red;
+}
+p{
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 2px;
+}
+.copy_right_footer h3{
+    box-shadow: 5px 5px 5px black;
+}
